@@ -17,3 +17,5 @@ This project implements machine learning models to predict rainfall with a binar
 - Ensemble methods for improved prediction accuracy
 - Feature importance visualization
 - Probability-based predictions
+
+![Feature Importance Plot](feature_importance_plot.png)
