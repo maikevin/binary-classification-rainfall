@@ -18,4 +18,4 @@ This project implements machine learning models to predict rainfall with a binar
 - Feature importance visualization
 - Probability-based predictions
 
-![Feature Importance Plot](feature_importance_plot.png)
+![Feature Importance Plot](images/feature_importance_plot.png)
